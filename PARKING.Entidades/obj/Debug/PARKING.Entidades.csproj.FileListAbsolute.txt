@@ -1,0 +1,8 @@
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Entidades\bin\Debug\PARKING.Entidades.dll
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Entidades\bin\Debug\PARKING.Entidades.pdb
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Entidades\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Entidades\obj\Debug\PARKING.Entidades.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Entidades\obj\Debug\PARKING.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Entidades\obj\Debug\PARKING.Entidades.csproj.CopyComplete
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Entidades\obj\Debug\PARKING.Entidades.dll
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Entidades\obj\Debug\PARKING.Entidades.pdb

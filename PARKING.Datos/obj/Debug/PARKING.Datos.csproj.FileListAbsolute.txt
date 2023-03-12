@@ -1,0 +1,10 @@
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Datos\bin\Debug\PARKING.Datos.dll
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Datos\bin\Debug\PARKING.Datos.pdb
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Datos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Datos\bin\Debug\PARKING.Entidades.dll
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Datos\bin\Debug\PARKING.Entidades.pdb
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Datos\obj\Debug\PARKING.Datos.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Datos\obj\Debug\PARKING.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Datos\obj\Debug\PARKING.Datos.csproj.CopyComplete
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Datos\obj\Debug\PARKING.Datos.dll
+C:\Users\Pablo\Desktop\SEMINARIO_PARCIAL\PARKING\PARKING.Datos\obj\Debug\PARKING.Datos.pdb
